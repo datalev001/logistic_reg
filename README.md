@@ -1,4 +1,6 @@
 # Conquering Business and Workplace Challenges: The Ultimate Guide to Logistic Regression Mastery (1)
+This study utilizes the dataset from the Kaggle competition [Give Me Some Credit](https://www.kaggle.com/competitions/GiveMeSomeCredit) to demonstrate the development of a business-oriented predictive model for a binary classification target. see my medium post: https://medium.com/@datalev/conquering-business-and-workplace-challenges-the-ultimate-guide-to-logistic-regression-mastery-1-2cd381b67823
+
 Beyond Textbooks: Practical Tips for Applying Logistic Regression in Business
 Hey there! So, you've spent hours cramming textbook theories on logistic regression, mastered every equation, and even aced your exams. But let me tell you a secret: the real business world? It's a whole different ballgame. I've been in this game for over 20 years, using logistic regression models to unlock business value, and I've seen it all. This isn't your typical classroom lesson. This is about getting your hands dirty with real data, real problems, and real, sometimes clueless, stakeholders.
 
